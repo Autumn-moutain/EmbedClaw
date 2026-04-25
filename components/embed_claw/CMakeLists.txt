@@ -9,6 +9,7 @@ idf_component_register(
         "."
     REQUIRES
         driver
+        esp_adc
         esp_http_client
         esp_http_server
         esp_netif

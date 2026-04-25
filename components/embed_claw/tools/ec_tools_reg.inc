@@ -10,4 +10,8 @@ EC_TOOLS_REG(cron_add)
 EC_TOOLS_REG(cron_list)
 EC_TOOLS_REG(cron_remove)
 EC_TOOLS_REG(web_search)
+EC_TOOLS_REG(bh1750)
+EC_TOOLS_REG(fill_light)
+EC_TOOLS_REG(water_ion_temp_uart)
+EC_TOOLS_REG(ntu_test_adc)
 
